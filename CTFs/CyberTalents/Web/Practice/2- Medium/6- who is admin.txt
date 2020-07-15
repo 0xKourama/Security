@@ -1,0 +1,7 @@
+solve this challange
+by use burp to intercept the requset 
+and you will notice that authntication= encode base64
+try to decode and replace by admin and encode it again and send 
+you will get the flag
+
+https://www.youtube.com/watch?v=DQK-jxjEkEY&list=PLYp_Kd32XvcqyNt7G2_bmRrvho5MXQaSG&index=10
