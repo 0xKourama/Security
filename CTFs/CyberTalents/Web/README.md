@@ -1,2 +1,5 @@
-# collection-of-web-write-ups-cybertalents
-## resources for web challanges CTFs on cybertalents paltform 
+# Web-write-ups-CyberTalents
+## Resources for Web Challanges CTFs on cybertalents
+  - Easy
+  - Medium
+  - Hard
